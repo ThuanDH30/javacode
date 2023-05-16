@@ -1,0 +1,1 @@
+((assignment*20)/100 + (((double) sumLab / lab.length)*10/100) + ((double) sumOther / other.length)*10/100 + ((pe*30)/100) + ((fe*30)/100)) / 5;
